@@ -1,4 +1,4 @@
-# BeStock
+# BeStock 🚧 WIP
 ### Fast Stock Forecasting
 A tool for fast, secure and reliable stock forecasting. 
 
