@@ -81,7 +81,7 @@ fn main() {
     );
 
     let mean_sales = mean(&valid_sales);
-    let sqrt_sales = std(&valid_sales, 2); 
+    let sqrt_sales = std(&valid_sales, 1); 
     let suggested_demand1 = suggested_demand(&valid_sales);
 
     println!("mean sales: {mean_sales}");
